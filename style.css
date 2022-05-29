@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+
+.container{
+    margin-top: 350px;
+}
+
+.lightBtn, .darkBtn{
+padding: 30px 50px;
+border-radius:60px;
+border:none;
+font-size: 20px;
+margin-right:30px;
+font-weight:bolder;
+cursor:pointer;
+}
+
+h1{
+    font-size: 60px;
+}
+
+.darkBtn{
+    color: #fff;
+    background: black;
+}
